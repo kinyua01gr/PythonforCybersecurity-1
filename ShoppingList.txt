@@ -4,3 +4,7 @@ Bananas
 Eggs
 
 ice cream
+meat
+tools
+water
+wipes
